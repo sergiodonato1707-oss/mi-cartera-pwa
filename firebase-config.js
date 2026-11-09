@@ -1,10 +1,7 @@
-/* CONFIGURACIÓN OPCIONAL DE NUBE.
-   Copia aquí los valores de Firebase -> Configuración del proyecto -> Tus aplicaciones.
-   No pongas contraseñas ni datos de clientes. Las claves web de Firebase no son secretos.
-   Si está vacío, Mi Cartera funciona solo en ESTE dispositivo. */
+/* Configuración Firebase de Mi Cartera */
 window.MI_CARTERA_FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  appId: ""
+  apiKey: "AIzaSyD6qZdVY8rHySKx7EMiB_fpSe6eDNW1w2M",
+  authDomain: "mi-cartera-ec4e4.firebaseapp.com",
+  projectId: "mi-cartera-ec4e4",
+  appId: "1:427003825048:web:aaaec2166a0f33b0ae79ed"
 };
